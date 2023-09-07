@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Egg Burt
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning coding and designing apps.
